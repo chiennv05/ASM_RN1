@@ -1,0 +1,39 @@
+{
+  "LOGIN": [
+    {
+      "id": "1",
+      "name": "chien",
+      "email": "johndoe@example.com",
+      "pass": "12345"
+    },
+    {
+      "id": "5b75",
+      "email": "chein@gmail.com",
+      "name": "chein",
+      "pass": "123"
+    }
+  ],
+  "LIST": [
+    {
+      "id": "1",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1ee97e93-265b-49fa-a393-fcb254b9a273/W+NIKE+ZOOM+VOMERO+5.png",
+      "name": "Nike Zoom Vomero 5",
+      "price": "4,999,000",
+      "description": "Carve a new lane for yourself in the Vomero 5—your go-to for durability, depth and easy styling. The sleek design includes leather, textiles and plastic accents that nod to the Y2K aesthetic."
+    },
+    {
+      "id": "2",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/be65c493-3b60-450e-ba1a-a72110b6acf9/NIKE+ZOOM+VOMERO+ROAM.png",
+      "name": "Nike Zoom Vomero Roam",
+      "price": "5,279,000",
+      "description": "Designed for city conditions, this winterized version of the Vomero is made for wet weather. Durable materials and a rubber mudguard work together to help safeguard your shoes from dirt and puddles. Plus, a chunky midsole gives you a visible boost of comfort and style wherever you wander."
+    },
+    {
+      "id": "3",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e28f914c-5a40-4897-88f4-2fe14649fb83/W+NIKE+ZOOM+VOMERO+5.png",
+      "name": "Nike Zoom Vomero 5",
+      "price": "4,699,000",
+      "description": "Carve a new lane for yourself in the Zoom Vomero 5—your go-to for complexity, depth and easy styling. The richly layered design includes textiles, leather and plastic accents that come together to make one of the coolest sneakers of the season."
+    }
+  ]
+}
