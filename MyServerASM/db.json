@@ -16,24 +16,59 @@
   "LIST": [
     {
       "id": "1",
-      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1ee97e93-265b-49fa-a393-fcb254b9a273/W+NIKE+ZOOM+VOMERO+5.png",
+      "image":  "giay-nike",
       "name": "Nike Zoom Vomero 5",
       "price": "4,999,000",
-      "description": "Carve a new lane for yourself in the Vomero 5—your go-to for durability, depth and easy styling. The sleek design includes leather, textiles and plastic accents that nod to the Y2K aesthetic."
+      "description": "Carve a new lane for yourself in the Vomero 5—your go-to for durability, depth and easy styling. The sleek design includes leather, textiles and plastic accents that nod to the Y2K aesthetic.",
+      "size": 42
+
     },
     {
       "id": "2",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/be65c493-3b60-450e-ba1a-a72110b6acf9/NIKE+ZOOM+VOMERO+ROAM.png",
+      "image": "giay-nike2",
       "name": "Nike Zoom Vomero Roam",
       "price": "5,279,000",
-      "description": "Designed for city conditions, this winterized version of the Vomero is made for wet weather. Durable materials and a rubber mudguard work together to help safeguard your shoes from dirt and puddles. Plus, a chunky midsole gives you a visible boost of comfort and style wherever you wander."
+      "description": "Designed for city conditions, this winterized version of the Vomero is made for wet weather. Durable materials and a rubber mudguard work together to help safeguard your shoes from dirt and puddles. Plus, a chunky midsole gives you a visible boost of comfort and style wherever you wander.",
+      "size": 42
     },
     {
       "id": "3",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e28f914c-5a40-4897-88f4-2fe14649fb83/W+NIKE+ZOOM+VOMERO+5.png",
+      "image": "giay-nike3",
       "name": "Nike Zoom Vomero 5",
       "price": "4,699,000",
-      "description": "Carve a new lane for yourself in the Zoom Vomero 5—your go-to for complexity, depth and easy styling. The richly layered design includes textiles, leather and plastic accents that come together to make one of the coolest sneakers of the season."
-    }
-  ]
+      "description": "Carve a new lane for yourself in the Zoom Vomero 5—your go-to for complexity, depth and easy styling. The richly layered design includes textiles, leather and plastic accents that come together to make one of the coolest sneakers of the season.",
+      "size": 42
+
+    },
+
+ 
+      {
+        "id": "4",
+        "image":  "jordan1",
+        "name": "Air Jordan 1 Mid SE",
+        "price": "3,959,000",
+        "description": "Heritage Jordan colours and soft velvet? Say less. We updated this special-edition AJ1 with style and elegance in mind, letting you show off in luxurious comfort. Now that's a win.",
+        "size": 42
+  
+      },
+      {
+        "id": "5",
+        "image": "jordan2",
+        "name": "Air Jordan 1 Low SE",
+        "price": "3,669,000",
+        "description": "This special edition AJ1 is all about varsity and versatility. Smooth leather, shiny satin and a chenille tongue patch set you up with a premium look. And MJ's collegiate colours? Well, they complement so many of your future 'fits.",
+        "size": 42
+      },
+      {
+        "id": "6",
+        "image": "jordan3",
+        "name": "Air Jordan 1 Low",
+        "price": "3,829,000",
+        "description": "Fresh colours and an iconic silhouette give you an updated AJ1 without losing its familiar feel. Made from real leather, this all-time favourite comes decked out with subtle design details to give you a staple sneaker with a modern look.",
+        "size": 42
+  
+      }
+    ]
+  
+ 
 }
